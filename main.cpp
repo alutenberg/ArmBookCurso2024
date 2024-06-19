@@ -1,4 +1,4 @@
-#include "mbed.h"
+#include "mbed.hpp"
 
 int main()
 {
