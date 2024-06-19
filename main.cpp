@@ -1,4 +1,5 @@
 #include "mbed.hpp"
+
 int main()
 {
     DigitalIn B1_USER(BUTTON1);
